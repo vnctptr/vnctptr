@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I’m Vinnie
+
+- ⭐ Software developer with a passion for machine learning.
+- 🤖 My goal is to simplify my life through technology. I love finding new ways to make the most of my time and make life a little more effortless!
+- 🎓 I have a deep love for learning. Whether it's exploring new technology or delving into the latest research, I find that learning is a never-ending journey.
+- When I'm not coding, you can find me brushing up on my (human) language skills 🇫🇷🇵🇱🇬🇧🇪🇸🇮🇹🇷🇺
 
 <!--
 **vnctptr/vnctptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
