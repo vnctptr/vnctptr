@@ -3,9 +3,11 @@
 - ⭐ Software developer with a passion for machine learning.
 - 🤖 My goal is to simplify my life through technology. I love finding new ways to make the most of my time and make life a little more effortless!
 - 🎓 I have a deep love for learning. Whether it's exploring new technology or delving into the latest research, I find that learning is a never-ending journey.
-- When I'm not coding, you can find me brushing up on my (human) language skills 🇫🇷🇵🇱🇬🇧🇪🇸🇮🇹🇷🇺
-
+- 🔭 When I'm not coding, you can find me brushing up on my (human) language skills 🇫🇷🇵🇱🇬🇧🇪🇸🇮🇹🇷🇺
 <!--
+- Don't forget to check out my [Dev Journal](link here) where I document everything I've learned during my journey as a sofware developer
+
+
 **vnctptr/vnctptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
