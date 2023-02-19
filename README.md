@@ -4,7 +4,7 @@
 - 🤖 My goal is to simplify my life through technology. I love finding new ways to make the most of my time and make life a little more effortless!
 - 🎓 I have a deep love for learning. Whether it's exploring new technology or delving into the latest research, I find that learning is a never-ending journey.
 - 🔭 When I'm not coding, you can find me brushing up on my (human) language skills 🇫🇷🇵🇱🇬🇧🇪🇸🇮🇹🇷🇺
-
+- 📖 Currently reading: [The Book of Why](https://www.goodreads.com/en/book/show/36204378)
 
 Don't forget to check out my [Dev Journal](https://www.vnctptr.me/) where I document everything I've learned during my journey as a sofware developer.
 
