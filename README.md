@@ -5,7 +5,7 @@
 - 🎓 I have a deep love for learning. Whether it's exploring new technology or delving into the latest research, I find that learning is a never-ending journey.
 - 🔭 When I'm not coding, you can find me brushing up on my (human) language skills 🇫🇷🇵🇱🇬🇧🇪🇸🇮🇹🇷🇺
 - 🌱 Currently learning: Ruby on Rails
-- 📖 Currently reading: [Good Economics for Hard Times](https://www.goodreads.com/book/show/51014619-good-economics-for-hard-times)
+- 📖 Currently reading: [Less Is More](https://www.goodreads.com/book/show/53328332-less-is-more)
 
 Don't forget to check out my [Dev Journal](https://www.vnctptr.me/) where I document everything I've learned during my journey as a sofware developer.
 
