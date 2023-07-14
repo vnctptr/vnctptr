@@ -3,7 +3,6 @@
 - ⭐ Software developer with a passion for machine learning.
 - 🔭 When I'm not coding, you can find me brushing up on my language skills 🇫🇷🇵🇱🇬🇧🇪🇸🇮🇹🇷🇺
 - 🌱 Currently learning: Tensorflow, Ruby
-- 📖 Currently reading: [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code)
 
 Don't forget to check out my [Dev Journal](https://www.vnctptr.me/) where I document everything I've learned during my journey as a sofware developer.
 
