@@ -2,7 +2,7 @@
 
 - ⭐ Software developer with a passion for machine learning.
 - 🔭 When I'm not coding, you can find me brushing up on my language skills 🇫🇷🇵🇱🇬🇧🇪🇸🇮🇹🇷🇺
-- 🌱 Currently learning: Tensorflow, Ruby
+- 🌱 Currently learning: Tensorflow, Swift
 - 📖 Currently reading: [Factfulness](https://www.goodreads.com/book/show/34890015-factfulness)
 
 Don't forget to check out my [Dev Journal](https://www.vnctptr.me/) where I document what I've learned during my journey as a sofware developer.
