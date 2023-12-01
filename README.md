@@ -3,7 +3,7 @@
 - ⭐ Software developer with a passion for machine learning.
 - 🔭 When I'm not coding, you can find me brushing up on my language skills 🇫🇷🇵🇱🇬🇧🇪🇸🇮🇹🇷🇺
 - 🌱 Currently learning: Tensorflow, Swift, React
-- 📖 Currently reading: [Factfulness](https://www.goodreads.com/book/show/34890015-factfulness)
+- 📖 Currently reading: [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 
 Don't forget to check out my [Dev Journal](https://www.vnctptr.me/) where I document what I've learned during my journey as a sofware developer.
 
