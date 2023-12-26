@@ -3,7 +3,7 @@
 - ⭐ Software developer with a passion for machine learning.
 - 🔭 When I'm not coding, you can find me brushing up on my language skills 🇫🇷🇵🇱🇬🇧🇪🇸🇮🇹🇷🇺
 - 🌱 Currently learning: Tensorflow, Swift, React
-- 📖 Currently reading: [The Signal and the Noise](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise)
+- 📖 Currently reading: [Fluent Forever](https://www.goodreads.com/book/show/19661852-fluent-forever)
 
 Don't forget to check out my [Dev Journal](https://www.vnctptr.me/) where I document what I've learned during my journey as a sofware developer.
 
