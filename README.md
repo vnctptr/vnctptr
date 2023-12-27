@@ -1,6 +1,6 @@
 ### Hi, I’m Vinnie
 
-- ⭐ Software developer with a passion for machine learning.
+- ⭐ I'm a software developer with a passion for machine learning.
 - 🔭 When I'm not coding, you can find me brushing up on my language skills 🇫🇷🇵🇱🇬🇧🇪🇸🇮🇹🇷🇺
 - 🌱 Currently learning: Tensorflow, Swift, React
 - 📖 Currently reading: [Fluent Forever](https://www.goodreads.com/book/show/19661852-fluent-forever)
