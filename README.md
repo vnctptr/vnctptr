@@ -3,7 +3,6 @@
 - ⭐ I'm a software developer with a passion for machine learning.
 - 🔭 When I'm not coding, you can find me brushing up on my language skills 🇫🇷🇵🇱🇬🇧🇪🇸🇮🇹🇷🇺
 - 🌱 Currently learning: Tensorflow, Swift, React
-- 📖 Currently reading: [Six Not-So-Easy Pieces](https://www.goodreads.com/book/show/6779.Six_Not_So_Easy_Pieces)
 
 Don't forget to check out my [Dev Journal](https://www.vnctptr.me/) where I document what I've learned during my journey as a sofware developer.
 
