@@ -2,7 +2,7 @@
 
 - ⭐ I'm a software developer with a passion for machine learning.
 - 🔭 When I'm not coding, you can find me brushing up on my language skills 🇫🇷🇵🇱🇬🇧🇪🇸🇮🇹🇷🇺
-- 🌱 Currently learning: Swift, React
+- 🌱 Currently learning: Swift
 
 Don't forget to check out my [Dev Journal](https://www.vnctptr.me/) where I document what I've learned during my journey as a sofware developer.
 
