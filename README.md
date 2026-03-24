@@ -4,7 +4,6 @@
 - 🔭 When I'm not coding, you can find me brushing up on my language skills 🇫🇷🇵🇱🇬🇧🇪🇸🇮🇹🇺🇦🇷🇺
 - 🌱 Currently learning: Tensorflow
 
-Don't forget to check out my [Dev Journal](https://www.vnctptr.me/) where I document what I've learned as a sofware developer.
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vnctptr&repo=dev-journal&theme=dark)](https://github.com/vnctptr/dev-journal) [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vnctptr&repo=portfolio&theme=dark)](https://github.com/vnctptr/portfolio)
 
