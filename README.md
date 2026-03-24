@@ -9,6 +9,7 @@ Don't forget to check out my [Dev Journal](https://www.vnctptr.me/) where I docu
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vnctptr&repo=dev-journal&theme=dark)](https://github.com/vnctptr/dev-journal) [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vnctptr&repo=portfolio&theme=dark)](https://github.com/vnctptr/portfolio)
 
 <!--
+Don't forget to check out my [Dev Journal](https://www.vnctptr.me/) where I document what I've learned as a sofware developer.
 **vnctptr/vnctptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
